@@ -6,7 +6,11 @@ layout: page
 
 ## the site
 
-just somewhere for me to write about things I like. And practice git, github and markdown while I'm at it. And practice writing too.
+just somewhere for me to write about things I like. 
+
+and practice git, github and markdown while I'm at it. 
+
+and practice writing too.
 
 ## license
 
@@ -14,7 +18,7 @@ just somewhere for me to write about things I like. And practice git, github and
 
 ## theme
 
-This site uses a jekyll theme by [niklasbuschmann](https://github.com/niklasbuschmann/contrast)
+jekyll theme by [niklasbuschmann](https://github.com/niklasbuschmann/contrast)
 
 <!--
 ## Installation
