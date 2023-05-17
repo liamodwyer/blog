@@ -1,5 +1,5 @@
 ---
-title:  "Unforgettable Fire"
+title:  "Ranking U2 | Part 1"
 layout: post
 categories: media
 ---
@@ -9,23 +9,17 @@ categories: media
 
 ## Unforgettable Fire
 
-Not sure why I started here but I did. I'm going to listen to all of U2's album's 10 times and do a ranking. This was a blind spot. I owned it on cassette in the early 90s so I *must* have listened to it a decent number of times back then but the lesser known tracks here were not familiar to my 40-something ears. Anyway, I'll do a track-by-track for each album so here goes...
+Not sure why I started here but I did. I'm going to listen to all of U2's album's 10 times and do a ranking. This one was a blind spot, relatively speaking. I owned it on cassette in the early 90s so I *must* have listened to it a decent number of times back then but some of the lesser known tracks here were *very* unfamiliar to my 40-something ears. Anyway, I'll do a track-by-track for each album so here goes...
 
-### A sort of homecoming
+#### A sort of homecoming
 
-Jesus. What an opener. I mean I of course new this song but it had been a while since I listened to it. Bono's vocals are off the scale. As they are on the whole album, perfectly caught between his early english-punk style affectations and the later american stadium yawp. And has he written a better lyric? I'm not sure. Gorgeous song. Perfect way to introduce an album.
+Jesus. What an opener. I mean I of course new this song but it had been a while since I listened to it. Bono's vocals are off the scale. As they are on the whole album, perfectly caught between his early english-punk style affectations and the later american stadium yawp. And has he written a better lyric? I'm not sure. Gorgeous song. Jesus. What an opener.
 
-[Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
+#### Pride (in the name of love)
 
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+It's all about the drumming. The way it pushes into every chorus like a train. Not my favourite type of U2, and even on this album I prefer the songs that are less sure of what they are, less quick to declare themselves. But you can't deny its power, from that three note opening. It is a bit hard to hear the song properly, it feels like trying to see a table for the first time. God I'm talking shite.
 
-The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
 
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac{\partial L}{\partial \dot{q}} \right ) = \frac{\partial L}{\partial q} $$
-
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) describes how the quantum state of a quantum system changes with time.
-
-$$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
 
 ## Code
 
