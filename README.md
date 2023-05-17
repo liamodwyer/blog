@@ -4,11 +4,11 @@ permalink: "/about/"
 layout: page
 ---
 
-## This site
+## the site
 
-This site is somewhere for me to write about things I like. And practice git, github and markdown while I'm at it.
+just somewhere for me to write about things I like. And practice git, github and markdown while I'm at it. And practice writing too.
 
-## License
+## license
 
 [public domain](http://unlicense.org/)
 
