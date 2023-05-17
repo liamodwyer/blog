@@ -14,19 +14,21 @@ Not sure why I started here but I did. I'm going to listen to all of U2's album'
 #### A Sort of Homecoming
 
 Jesus. What an opener. I mean I of course knew this song but it had been a while since I listened to it. Bono's vocals are off the scale. As they are on the whole album, perfectly caught between his early english-punk style affectations and the later american stadium yawp. And has he written a better lyric? I'm not sure. Gorgeous song. Jesus. What an opener.
+9/10
 
 #### Pride (In The Name Of Love)
 
 It's all about the drumming. The way it pushes into every chorus like a train. Not my favourite type of U2, and particularly on this album I prefer the songs that are less sure of what they are, less quick to declare themselves. But you can't deny its power, from that three note opening. It is a bit hard to hear the song properly, it feels like trying to see a table for the first time. God I'm talking shite.
+7.5/10
 
 #### Wire
 
-I honestly had no
+
 
 #### The Unforgettable Fire
 
-
-
+A perfect song. The sound of a band finding a new sound.
+10/10
 
 ## Images
 
