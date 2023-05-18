@@ -9,7 +9,7 @@ categories: media
 
 ## Intro
 
-Trying out a blog for non-work stuff, apart from practicing git and markdown and jekyll and whatnot. Not sure what I will or won't throw in here but I've recently jumped back on Spotify (sorry Neil) and after reading Surrender kind of had the itch to revisit U2's albums. And I like ranking things (pathetic, I know) so I'll use that as a way to kickstart some writing. I'm going to listen to each album 10 times. 
+Trying out a blog for non-work stuff, apart from practicing git and markdown and jekyll and whatnot. Not sure what I will or won't throw in here but I've recently jumped back on Spotify (sorry Neil) and after reading Surrender I had the itch to revisit U2's albums. And I like ranking things (pathetic, I know) so I'll try that as a way to kickstart whatever this is. I'm going to listen to each album 10 times.
 
 I'll rate the albums on tracklisting too, or just how coherently it works as an album which has always been important to me when listening to music.
 
@@ -21,7 +21,14 @@ Not sure why I started here but I did.  This one was a blind spot, relatively sp
 
 #### A Sort of Homecoming
 
-Jesus. What an opener. I knew this song of course but it had been a while since I really listened to it. Bono's vocals are off the scale. As they are on the whole album. In between his early english-punk style affectations and the later american twang. Has he written a better lyric? I'm not sure. He was reading Paul Celan at the time who said "Potery is a sort of homecoming". Just gorgeous. What an opener.
+Jesus. What an opener. I knew this song of course but it had been a while since I really listened to it. Bono's vocals are off the scale. As they are on the whole album. In between his early english-punk style affectations and the later american twang. Has he written a better lyric? I'm not sure. The title paraphrases Paul Celan who said "Poetry is a sort of homecoming" and Bono's impressionistic lyrics create some arresting sketches of places and feelings.
+
+> The city walls are all come down
+> The dust a smoke screen all around
+> See faces ploughed like fields that once
+> Gave no resistance
+
+Just gorgeous. Up their with their best opening tracks.
 
 9/10
 
