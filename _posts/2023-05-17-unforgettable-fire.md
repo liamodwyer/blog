@@ -23,7 +23,7 @@ Not sure why I started here but I did.  This one was a blind spot, relatively sp
 
 Jesus. What an opener. I knew this song of course but it had been a while since I really listened to it. Bono's vocals are off the scale. As they are on the whole album. In between his early english-punk style affectations and the later american twang. 
 
-And has he written a better lyric? I'm not sure. The title paraphrases Paul Celan who said "Poetry is a sort of homecoming" and Bono's impressionistic style creates arresting sketches of places and feelings, of foundations giving way, of memories disappearing.
+And has he written a better lyric? I'm not sure. The title paraphrases Paul Celan who said "Poetry is a sort of homecoming" and Bono's impressionistic style creates beautiful, arresting sketches of places and feelings, of foundations giving way, of some things coming apart and some things staying together. 
 
 > The city walls are all come down
 >
@@ -35,9 +35,11 @@ And has he written a better lyric? I'm not sure. The title paraphrases Paul Cela
 
 {% include embed.html url="https://www.youtube.com/embed/ot-5qt-T-YQ" %}
 
+The tune isn't bad either. 
+
 Just gorgeous. Up their with their best opening tracks.
 
-9/10
+9.5/10
 
 #### Pride (In The Name Of Love)
 
@@ -58,6 +60,20 @@ A perfect song. A band finding a new sound.
 #### Promenade
 
 Lovely song. Bono and Ali had moved into a Martello tower in Bray 
+
+#### Indian Summer Sky
+
+More soaring vocals but the weird backing vocal underneath just sounds...well, weird. And annoying. The lyrical imagery is a bit half baked too. I'm not sure is it when there's a stronger tune underneath it gives these broad-stroke images more heft. Whatever, they just sound unfinished here. Not the best. I like the part around 3:50 where Bono comes in over himself but then 
+
+#### Elvis Presley and America 
+
+Underrated. Bono's vocals are very odd, sounds like he could have done with another take or three. And the guitars go out the door and come back in for no clear reason in a few places. And the volume is all over the shop. It sounds like they are figuring it out as they go along, more like an extended jam than a song. But that's kind of why I like it. Everything in later U2 is rerecorded and overthought to within an inch of its life. Here it sounds like a peek into their studio process, Bono scatting and experimenting, Edge finding things that work and things that don't, Larry driving the car through the rain and Adam bringing the cans. This album sounds rushed in places but it gives it an energy that How To Dismantle An Atomic Bomb would kill for. In opinion.
+
+6.5/10
+
+#### MLK
+
+
 
 <!--## Images
 
