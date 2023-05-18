@@ -9,15 +9,15 @@ categories: media
 
 ## Intro
 
-Trying out a blog for non-work stuff. Not sure what I will or won't throw in here but I've recently jumped back on Spotify (sorry Neil) and after reading Surrender kind of had the itch to revisit U2's albums. And I like ranking things (pathetic, I know) so I'll use that as a way to kickstart this and write a bit. I'm going to listen to each album 10 times. 
+Trying out a blog for non-work stuff, apart from practicing git and markdown and jekyll and whatnot. Not sure what I will or won't throw in here but I've recently jumped back on Spotify (sorry Neil) and after reading Surrender kind of had the itch to revisit U2's albums. And I like ranking things (pathetic, I know) so I'll use that as a way to kickstart some writing. I'm going to listen to each album 10 times. 
 
-I'll also rate the albums on tracklisting or really how well it works as an album which has always been important to me when listening to music.
+I'll rate the albums on tracklisting too, or just how coherently it works as an album which has always been important to me when listening to music.
 
 Qualifier: There will be a *lot* more informed and better written things on U2 than my wibblings here. Is wibblings a word?
 
 ## The Unforgettable Fire
 
-Not sure why I started here but I did.  This one was a blind spot, relatively speaking. I owned it on cassette in the early 90s so I *must* have listened to it a decent number of times back then but some of the lesser known tracks here were very unfamiliar to my ears. Anyway, I'll do a track-by-track for each album so here goes...
+Not sure why I started here but I did.  This one was a blind spot, relatively speaking. I owned it on cassette in the early 90s so I *must* have listened to it a decent number of times back then but some of the lesser known tracks here were very unfamiliar to my ears.
 
 #### A Sort of Homecoming
 
@@ -27,7 +27,7 @@ Jesus. What an opener. I knew this song of course but it had been a while since 
 
 #### Pride (In The Name Of Love)
 
-It's all about the drumming. The way it pushes into every chorus like a train. This is clearly 'Big' U2. Not my favourite type of U2, and particularly on this album I prefer the songs that are less sure of what they are, less quick to declare themselves. But you can't deny its power, from that three note opening. It is a bit hard to hear the song properly, it feels like trying to see a table for the first time. God I'm talking shite.
+It's all about the drumming. The way it pushes into every "in the naaame" like a train. This is clearly 'Big' U2. Not my favourite type of U2, and particularly on this album I prefer the songs that are less sure of what they are, less quick to declare themselves. But you can't deny its power, from that three note opening. It is a bit hard to hear the song properly, it feels like trying to see a table for the first time. God I'm talking shite.
 
 7.5/10
 
