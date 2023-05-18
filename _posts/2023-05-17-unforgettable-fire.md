@@ -9,31 +9,36 @@ categories: media
 
 ## Intro
 
-Trying out a blog for non-work stuff. Apart from the fact that it is a way to keep using git and github and markdown and jekyll and all of that. Not sure what I will or won't throw in here but I've recently jumped back on Spotify (sorry Neil) and after reading Surrender kind of had the itch to revisit U2's albums. And I like ranking things (pathetic, I know) so I'm going to use that as a way to kickstart this and write a bit. I'm going to listen to each album 10 times.
+Trying out a blog for non-work stuff. Not sure what I will or won't throw in here but I've recently jumped back on Spotify (sorry Neil) and after reading Surrender kind of had the itch to revisit U2's albums. And I like ranking things (pathetic, I know) so I'll use that as a way to kickstart this and write a bit. I'm going to listen to each album 10 times. 
+
+I'll also rate the albums on tracklisting or really how well it works as an album which has always been important to me when listening to music.
 
 Qualifier: There will be a *lot* more informed and better written things on U2 than my wibblings here. Is wibblings a word?
 
 ## The Unforgettable Fire
 
-Not sure why I started here but I did.  This one was a blind spot, relatively speaking. I owned it on cassette in the early 90s so I *must* have listened to it a decent number of times back then but some of the lesser known tracks here were *very* unfamiliar to my ears. Anyway, I'll do a track-by-track for each album so here goes...
+Not sure why I started here but I did.  This one was a blind spot, relatively speaking. I owned it on cassette in the early 90s so I *must* have listened to it a decent number of times back then but some of the lesser known tracks here were very unfamiliar to my ears. Anyway, I'll do a track-by-track for each album so here goes...
 
 #### A Sort of Homecoming
 
-Jesus. What an opener. I knew this song of course but it had been a while since I really listened to it. Bono's vocals are off the scale. As they are on the whole album. In between his early english-punk style affectations and the later american stadium yawp. Has he written a better lyric? I'm not sure. Gorgeous song. Jesus. What an opener.
+Jesus. What an opener. I knew this song of course but it had been a while since I really listened to it. Bono's vocals are off the scale. As they are on the whole album. In between his early english-punk style affectations and the later american twang. Has he written a better lyric? I'm not sure. He was reading Paul Celan at the time who said "Potery is a sort of homecoming". Just gorgeous. What an opener.
+
 9/10
 
 #### Pride (In The Name Of Love)
 
 It's all about the drumming. The way it pushes into every chorus like a train. This is clearly 'Big' U2. Not my favourite type of U2, and particularly on this album I prefer the songs that are less sure of what they are, less quick to declare themselves. But you can't deny its power, from that three note opening. It is a bit hard to hear the song properly, it feels like trying to see a table for the first time. God I'm talking shite.
+
 7.5/10
 
 #### Wire
 
-
+A bit of a comedown after the first two. But I like it.
 
 #### The Unforgettable Fire
 
-A perfect song. The sound of a band finding a new sound.
+A perfect song. A band finding a new sound.
+
 10/10
 
 #### Promenade
