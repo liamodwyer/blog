@@ -49,25 +49,31 @@ It's all about the drumming. The way it pushes into every "in the naaame" like a
 
 #### Wire
 
-A bit of a comedown after the first two. But I like it.
+A bit of a comedown after the first two. Also loses a lot of marks for Bono *laughing* around 2:25. For some reason that bugs the shit out of me. To paraphrase Alan Partridge "don't laugh Bono, it sounds *bad*". I would bet good money it bugs the shit out of Bono too.
+
+4.5/10
 
 #### The Unforgettable Fire
 
-A perfect song. A band finding a new sound.
+A perfect song. A band finding their sound. Or a new sound. A sound that sounds like no-one else. 
 
 10/10
 
 #### Promenade
 
-Lovely song. Bono and Ali had moved into a Martello tower in Bray 
+Lovely song. Bono and Ali had moved into a Martello tower in Bray and this is about as romantic a song as he has written.
+
+8/10
 
 #### Indian Summer Sky
 
-More soaring vocals but the weird backing vocal underneath just sounds...well, weird. And annoying. The lyrical imagery is a bit half baked too. I'm not sure is it when there's a stronger tune underneath it gives these broad-stroke images more heft. Whatever, they just sound unfinished here. Not the best. I like the part around 3:50 where Bono comes in over himself but then 
+More soaring vocals but the weird backing vocal underneath just sounds...well, weird. And annoying. The lyrics cross over from impressionistic to just half-baked. I'm not sure is it when there's a stronger tune underneath it gives them more heft. Whatever, they just sound unfinished here. Not the best. I like the part around 3:50 where Bono comes in over himself but then straight after there's the weird hu-hu-hu-hu backing so I just end up annoyed.
+
+4/10
 
 #### Elvis Presley and America 
 
-Underrated. Bono's vocals are very odd, sounds like he could have done with another take or three. And the guitars go out the door and come back in for no clear reason in a few places. And the volume is all over the shop. It sounds like they are figuring it out as they go along, more like an extended jam than a song. But that's kind of why I like it. Everything in later U2 is rerecorded and overthought to within an inch of its life. Here it sounds like a peek into their studio process, Bono scatting and experimenting, Edge finding things that work and things that don't, Larry driving the car through the rain and Adam bringing the cans. This album sounds rushed in places but it gives it an energy that How To Dismantle An Atomic Bomb would kill for. In opinion.
+Bono's vocals are very odd, sounds like he could have done with another take or three. And the guitars go out the door and come back in for no clear reason in a few places. The volume is all over the shop throughout. It sounds like they are figuring the song out as they go along, more like an extended jam than a song. But that's kind of why I like it. Everything in later U2 is rerecorded and overthought to within an inch of its life. This sounds like a peek at them arsing around in the studio. Bono scatting and experimenting, Edge finding things that work and things that don't, Larry driving the car through the rain and Adam bringing the cans. This album sounds rushed in places - places like right here - but it gives it an energy that How To Dismantle An Atomic Bomb would kill for.
 
 6.5/10
 
