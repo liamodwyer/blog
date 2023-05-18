@@ -31,7 +31,7 @@ Jesus. What an opener. I knew this song of course but it had been a while since 
 >
 > Gave no resistance
 
-{% include embed.html url=""https://www.youtube.com/embed/ot-5qt-T-YQ"" %}
+{% include embed.html url="https://www.youtube.com/embed/ot-5qt-T-YQ" %}
 
 Just gorgeous. Up their with their best opening tracks.
 
