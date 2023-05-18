@@ -21,7 +21,9 @@ Not sure why I started here but I did.  This one was a blind spot, relatively sp
 
 #### A Sort of Homecoming
 
-Jesus. What an opener. I knew this song of course but it had been a while since I really listened to it. Bono's vocals are off the scale. As they are on the whole album. In between his early english-punk style affectations and the later american twang. Has he written a better lyric? I'm not sure. The title paraphrases Paul Celan who said "Poetry is a sort of homecoming" and Bono's impressionistic lyrics create some arresting sketches of places and feelings.
+Jesus. What an opener. I knew this song of course but it had been a while since I really listened to it. Bono's vocals are off the scale. As they are on the whole album. In between his early english-punk style affectations and the later american twang. 
+
+And has he written a better lyric? I'm not sure. The title paraphrases Paul Celan who said "Poetry is a sort of homecoming" and Bono's impressionistic style creates arresting sketches of places and feelings, of foundations giving way, of memories disappearing.
 
 > The city walls are all come down
 >
