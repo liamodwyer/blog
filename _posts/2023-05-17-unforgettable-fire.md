@@ -24,8 +24,11 @@ Not sure why I started here but I did.  This one was a blind spot, relatively sp
 Jesus. What an opener. I knew this song of course but it had been a while since I really listened to it. Bono's vocals are off the scale. As they are on the whole album. In between his early english-punk style affectations and the later american twang. Has he written a better lyric? I'm not sure. The title paraphrases Paul Celan who said "Poetry is a sort of homecoming" and Bono's impressionistic lyrics create some arresting sketches of places and feelings.
 
 > The city walls are all come down
+>
 > The dust a smoke screen all around
+>
 > See faces ploughed like fields that once
+>
 > Gave no resistance
 
 Just gorgeous. Up their with their best opening tracks.
